@@ -241,14 +241,19 @@
 
 <!-- ====== FOOTER ====== -->
 <div align="center">
+  <br/>
+  <span style="color:#484F58; font-size:52px; line-height:1;">“</span>
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1800&color=A78BFA&center=true&vCenter=true&width=720&lines=Think+twise%2C+code+once" alt="Think twise, code once" />
+  <br/><br/>
   <p>
-    <span style="color:#484F58; font-size:48px;">“</span><br/>
-    <span style="color:#A78BFA; font-size:22px; font-style:italic; font-weight:600;">Code.</span>
-    <span style="color:#C084FC; font-size:22px; font-style:italic; font-weight:600;"> Learn.</span>
-    <span style="color:#E879F9; font-size:22px; font-style:italic; font-weight:600;"> Improve.</span>
-    <span style="color:#F472B6; font-size:22px; font-style:italic; font-weight:600;"> Repeat.</span><br/>
-    <span style="color:#484F58; font-size:48px;">”</span>
+    <span style="color:#A78BFA; font-size:24px; font-style:italic; font-weight:600;">Think</span>
+    <span style="color:#C084FC; font-size:24px; font-style:italic; font-weight:600;"> twise,</span>
+    <span style="color:#58A6FF; font-size:24px; font-style:italic; font-weight:600;"> code</span>
+    <span style="color:#34D399; font-size:24px; font-style:italic; font-weight:600;"> once</span>
   </p>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" width="100%" alt="Footer wave" />
+  <span style="color:#484F58; font-size:52px; line-height:1;">”</span>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=110&section=footer&animation=twinkling" width="100%" alt="Footer wave" />
 </div>
