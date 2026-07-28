@@ -51,7 +51,7 @@
       <span style="color:#8B949E; font-size:13px;">App Downloads</span>
     </td>
     <td align="center" width="25%" style="background:#161B22; border:1px solid #30363D; border-radius:14px; padding:18px 12px;">
-      <span style="color:#F472B6; font-size:28px; font-weight:bold;">7+</span><br/>
+      <span style="color:#F472B6; font-size:28px; font-weight:bold;">11+</span><br/>
       <span style="color:#8B949E; font-size:13px;">Live Projects</span>
     </td>
   </tr>
@@ -158,6 +158,58 @@
     </tr>
   </table>
 </details>
+
+<br/>
+
+<!-- ====== LIVE WEB PROJECTS ====== -->
+<h2 align="left">🌐 Live Web Projects</h2>
+
+<table border="0" cellspacing="12" cellpadding="0" align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="background:#161B22; border:1px solid #30363D; border-radius:16px; padding:22px;">
+      <span style="font-size:36px;">📝</span>
+      <h3 style="color:#E6EDF3;"><a href="https://mind-pad-2026.vercel.app/" style="color:#E6EDF3; text-decoration:none;">MindPad</a></h3>
+      <p style="color:#8B949E; font-size:13px; line-height:1.6;">Smart developer notepad for quick notes, snippets, and ideas — built for everyday coding workflows.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Live-34D399?style=flat-square" />
+      <br/><br/>
+      <a href="https://mind-pad-2026.vercel.app/" style="color:#58A6FF; text-decoration:none; font-size:13px;">🔗 mind-pad-2026.vercel.app →</a>
+    </td>
+    <td width="50%" valign="top" style="background:#161B22; border:1px solid #30363D; border-radius:16px; padding:22px;">
+      <span style="font-size:36px;">🎨</span>
+      <h3 style="color:#E6EDF3;"><a href="https://ms-paint-pro-2026.vercel.app/" style="color:#E6EDF3; text-decoration:none;">MS Paint PRO</a></h3>
+      <p style="color:#8B949E; font-size:13px; line-height:1.6;">Free online drawing and painting app with canvas tools, colors, and brush controls — right in the browser.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canvas-FF6B6B?style=flat-square" />
+      <br/><br/>
+      <a href="https://ms-paint-pro-2026.vercel.app/" style="color:#58A6FF; text-decoration:none; font-size:13px;">🔗 ms-paint-pro-2026.vercel.app →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background:#161B22; border:1px solid #30363D; border-radius:16px; padding:22px;">
+      <span style="font-size:36px;">🧰</span>
+      <h3 style="color:#E6EDF3;"><a href="https://dev-tool-kit-pro.vercel.app/" style="color:#E6EDF3; text-decoration:none;">DevToolkit</a></h3>
+      <p style="color:#8B949E; font-size:13px; line-height:1.6;">Free online developer tools and utilities — formatters, converters, and handy dev utilities in one place.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/DevTools-58A6FF?style=flat-square" />
+      <br/><br/>
+      <a href="https://dev-tool-kit-pro.vercel.app/" style="color:#58A6FF; text-decoration:none; font-size:13px;">🔗 dev-tool-kit-pro.vercel.app →</a>
+    </td>
+    <td width="50%" valign="top" style="background:#161B22; border:1px solid #30363D; border-radius:16px; padding:22px;">
+      <span style="font-size:36px;">💰</span>
+      <h3 style="color:#E6EDF3;"><a href="https://emi-calculator-ivory-seven.vercel.app/" style="color:#E6EDF3; text-decoration:none;">EMI Calculator</a></h3>
+      <p style="color:#8B949E; font-size:13px; line-height:1.6;">Calculate loan EMI, total interest, and full amortization schedule with interactive charts and breakdowns.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fintech-FBBF24?style=flat-square" />
+      <br/><br/>
+      <a href="https://emi-calculator-ivory-seven.vercel.app/" style="color:#58A6FF; text-decoration:none; font-size:13px;">🔗 emi-calculator-ivory-seven.vercel.app →</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
