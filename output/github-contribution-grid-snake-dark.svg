@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <rect width="900" height="120" fill="#0d1117"/>
+  <text x="450" y="55" fill="#8b949e" font-family="system-ui,sans-serif" font-size="16" text-anchor="middle">Contribution snake is being generated&</text>
+  <text x="450" y="80" fill="#58a6ff" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle">Run Actions ’ Generate Snake ’ Run workflow</text>
+</svg>

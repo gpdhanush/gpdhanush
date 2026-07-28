@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="38%" valign="middle" align="center" style="border:none;">
-      <img src="https://raw.githubusercontent.com/gpdhanush/gpdhanush/main/assets/profile.png" alt="Gnana Prakasam A" width="280" style="border-radius:50%; border:3px solid #8B5CF6;" />
+      <img src="assets/profile.png" alt="Gnana Prakasam A" width="280" style="border-radius:50%; border:3px solid #8B5CF6;" />
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=gpdhanush&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
     </td>
@@ -231,9 +231,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gpdhanush/gpdhanush/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gpdhanush/gpdhanush/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/gpdhanush/gpdhanush/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gpdhanush/gpdhanush/main/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gpdhanush/gpdhanush/main/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/gpdhanush/gpdhanush/main/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
   </picture>
 </p>
 
